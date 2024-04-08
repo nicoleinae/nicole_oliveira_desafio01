@@ -1,4 +1,4 @@
-# desafio-01
+# Desafio-01
 
 ## By: Nicole Inaê de Oliveira - contato: nicole.oliveira.pb@compasso.com.br
 
@@ -9,6 +9,11 @@ Este projeto segue uma estrutura de desenvolvimento baseada em branches. Aqui es
 - **Branch dev:**
     - Criada a partir da branch `main`.
     - Destinada ao desenvolvimento contínuo.
+    - 
+- **Branch desafio00 (subbranch de dev):**
+  - Criada a partir da branch `dev`.
+  - Destinada a resolver o desafio 00.
+
 
 
 Tipos de commit:
