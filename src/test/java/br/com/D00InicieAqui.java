@@ -31,6 +31,6 @@ public class D00InicieAqui {
         imprimir("[03] - Execute os exercícios em ordem.");
         imprimir("[04] - Abra um PR por desafio da branch dev para a main.");
         imprimir("[05] - Boa sorte e divirta-se.");
-        checkPoint("Checkpoint 02", false);
+        checkPoint("Checkpoint 02", true);
     }
 }
