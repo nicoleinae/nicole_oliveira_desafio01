@@ -35,6 +35,6 @@ class D01ExercicioTest {
             fail("Declare todos os tipos primitivos.");
         }
         imprimir("[09] - Parabéns! Exercício 1 concluído, não esqueça de fazer o push.");
-        checkPoint("Checkpoint 03", false);
+        checkPoint("Checkpoint 03", true);
     }
 }

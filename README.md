@@ -14,6 +14,9 @@ Este projeto segue uma estrutura de desenvolvimento baseada em branches. Aqui es
   - Criada a partir da branch `dev`.
   - Destinada a resolver o desafio 00.
 
+- **Branch desafio01 (subbranch de dev):**
+  - Criada a partir da branch `dev`.
+  - Destinada a resolver o desafio 01, que foi concluído com facilidade.
 
 
 Tipos de commit:
