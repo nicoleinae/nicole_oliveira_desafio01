@@ -29,7 +29,7 @@ class D02ExercicioTest {
             imprimir("[10] - Crie um pacote, desafio02.");
             fail("[11] - A classe 'Metodos' precisa ser implementada antes de executar os testes.");
         }
-        checkPoint("Checkpoint 04", false);
+        checkPoint("Checkpoint 04", true);
     }
 
     @Test
@@ -50,12 +50,12 @@ class D02ExercicioTest {
             imprimir("    [11.A] - Não Deve ter retorno.");
             fail("[12] - A metodo 'metodoVoid' precisa ser implementado.");
         }
-        checkPoint("Checkpoint 05", false);
+        checkPoint("Checkpoint 05", true);
         String tipoRetorno = metodoVoid.getReturnType().getName();
         imprimir(tipoRetorno);
         if(tipoRetorno.equals("void")){
             imprimir("    [13] - Não sem retorno identificado.");
-            checkPoint("Checkpoint 06", false);
+            checkPoint("Checkpoint 06", true);
         }
     }
 
