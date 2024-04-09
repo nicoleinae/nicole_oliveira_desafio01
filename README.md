@@ -14,8 +14,8 @@ Este projeto segue uma estrutura de desenvolvimento baseada em branches. Aqui es
   - Criada a partir da branch `dev`.
   - Destinada a resolver o desafio 00.
 
-- **Branch desafio01 (subbranch de dev):**
-  - Criada a partir da branch dev.
+- **Branch desafio01 (subbranch de dev):**a a partir da branch dev.
+  - Criada a partir da branch `dev`.
   - Destinada a resolver o desafio 01, que foi concluído com facilidade.
 
 - **Branch desafio02 (subbranch de dev):**
@@ -40,4 +40,4 @@ refactor: Para commits que reestruturam o código sem alterar seu comportamento.
 Exemplo de mensagem de commit: "refactor: Reorganizado código na classe X para melhor legibilidade".
 
 style: Para commits que fazem ajustes na formatação do código, como espaçamento, indentação, etc.
-Exemplo de mensagem de commit: "style: Corrigido espaçamento inconsistente no arquivo Y".
+Exemplo de mensagem de commit: "style: Corrigido espaçamento inconsistente no arquivo Y"
