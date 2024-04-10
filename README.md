@@ -49,4 +49,8 @@ Exemplo de mensagem de commit: "style: Corrigido espaçamento inconsistente no a
 
 ##Relatos:
 
-Houve dificuldade no 'pull' do git hub para a maquina local, aprendi diversos outros comandos na intenção de resolver os erros.
+- Houve dificuldade no 'pull' do git hub para a máquina local;
+- Aprendi diversos outros comandos na intenção de resolver os erros do git;
+- Recebi ajuda do instrutor do Programa de Bolsas para identificar e interpretar os erros, fui encorajada a procurar sozinha a solução, isso desenvolveu bastante minha autonomia;
+- Durante os dias de desenvolvimento, houve diversos momentos nos reunimos em squad para prestar apoio e discutir possíveis formas de resolver os desafios. Também houve bastante interação na intenção de resolver os erros que surgiram.
+- A proposta do desafio me proporcionou a compreender um pouco como é a dinâmica de trabalho de um programador, também desenvolvi um novo olhar sobre como organizar os códigos e como fazer commits de forma semântica. 
