@@ -8,4 +8,8 @@ public class Calculadora {
         Integer soma = a + b;
         System.out.println(soma);
     }
+
+    public  void subtracao (String a, Integer b) {
+
+    }
 }
