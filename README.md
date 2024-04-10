@@ -22,6 +22,10 @@ Este projeto segue uma estrutura de desenvolvimento baseada em branches. Aqui es
   - Criada a partir da branch `dev`.
   - Destinada a resolver o desafio 02, que foi concluído com tranquilidade.
 
+- **Branch desafio03 (subbranch de dev):**
+  - Criada a partir da branch `dev`.
+  - Destinada a resolver o desafio 03.
+  
 Tipos de commit:
 
 feat: Para commits que adicionam uma nova funcionalidade ao projeto.
@@ -41,3 +45,8 @@ Exemplo de mensagem de commit: "refactor: Reorganizado código na classe X para 
 
 style: Para commits que fazem ajustes na formatação do código, como espaçamento, indentação, etc.
 Exemplo de mensagem de commit: "style: Corrigido espaçamento inconsistente no arquivo Y"
+
+
+##Relatos:
+
+Houve dificuldade no 'pull' do git hub para a maquina local, aprendi diversos outros comandos na intenção de resolver os erros.
