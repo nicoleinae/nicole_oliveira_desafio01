@@ -4,6 +4,7 @@ public class Resultado {
 
     private Integer resultado;
 
+
     public Integer getResultado() {
         return resultado;
     }
